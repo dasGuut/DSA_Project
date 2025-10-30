@@ -196,6 +196,8 @@ public class AirportSimulation {
         System.out.printf  ("5) Average time a plane spent in landing queue: %.3f minutes%n", avgLandingWait);
         System.out.println("---------------------------");
 
+
+        //delete
         // Print per-minute CSV report: minute,landingQueue,takeoffQueue,runwayState
         // runwayState: 0=idle,1=landing,2=takeoff
         System.out.println("\nPer-minute CSV (minute,landingQueue,takeoffQueue,runwayState):");
@@ -206,6 +208,7 @@ public class AirportSimulation {
                     minuteStats[t][1],
                     minuteStats[t][2]);
         }
+        //delete
 
         sc.close();
     }
