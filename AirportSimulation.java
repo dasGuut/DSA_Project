@@ -213,3 +213,52 @@ public class AirportSimulation {
 
 
 //TESTing new branch test, forked isntead
+
+/* 1. Project Objective 
+a. To implement and test a small-scale Java project using the concepts of the OOP, stack, 
+and/or queue data structures.  
+b. To demonstrate the code and answer some technical questions related to the project 
+(if required). 
+
+
+2. Project Requirements  
+a. Code development - All projects MUST implement the following concepts: 
+
+ Loops and user input 
+
+ Methods (void and/or value-returned)  
+
+ 1-D and/or 2-D arrays (if deemed to be needed) 
+
+ Object and Classes 
+
+ The concept of STACK and/or QUEUE data structures. All projects MUST  use the 
+following base classes (ArrayQueue.java and/or ArrayStack.java) that have been 
+given in class. Add methods to these classes whenever are needed in your project. 
+
+ Other concepts could be included if deemed to be necessary for the project. This 
+includes (Inheritance, Class Abstraction, and Searching algorithms). 
+
+b. Things that SHOULD BE AVOIDED/NOT TO BE USED in the code development 
+
+ Use any JCF libraries including <Stack>, <Queue>, <LinkedList>, <Vector>, etc. 
+
+ Using any JCF built-in algorithms which have not been discussed in class. 
+ 
+ Any advanced data structures which are yet to be discussed in class. This includes 
+Tree, Hash, graphs, or any other data structures. 
+
+3. Project Evaluation 
+ Group Project I bears 10 POINTS of your Total Course Evaluation. 
+
+a. Details of Project I Evaluation (10 POINTS (IMPLEMENTATION + DISCUSSION)) - 
+Functioning properly and fulfilling project requirements (7 POINTS) 
+
+
+REQUIREMENTS          
+1) Methods, if and loops statements            
+2) Uses 1D and/or 2D Arrays             
+3) Uses of Objects and Classes          
+4) The concept of STACK and/or QUEUE data structures       
+5) Program working properly, ‘error free’         
+ */
