@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+//ONE RUNWAY AIRPORT SIMULATION
+
 public class AirportSimulation {
 
     enum Op { NONE, LANDING, TAKEOFF }
