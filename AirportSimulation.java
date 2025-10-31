@@ -32,6 +32,8 @@ public class AirportSimulation {
             size++;
         }
 
+        //sync problems
+
         public int dequeue() {
             if (head == null) throw new RuntimeException("Queue empty");
             int v = head.value;
