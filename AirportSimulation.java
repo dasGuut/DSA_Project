@@ -204,14 +204,6 @@ public class AirportSimulation {
         //delete
         // Print per-minute CSV report: minute,landingQueue,takeoffQueue,runwayState
         // runwayState: 0=idle,1=landing,2=takeoff
-        System.out.println("\nPer-minute CSV (minute,landingQueue,takeoffQueue,runwayState):");
-        System.out.println("minute,landingQueue,takeoffQueue,runwayState");
-        for (int t = 0; t < totalSimTime; t++) {
-            System.out.printf("%d,%d,%d,%d%n", t,
-                    minuteStats[t][0],
-                    minuteStats[t][1],
-                    minuteStats[t][2]);
-        }
         //delete
 
         sc.close();
